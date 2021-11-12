@@ -123,7 +123,7 @@ namespace WpfApplication6
         
         public bool editButton = false;
 
-        // tester
+        // tester alo bre
 
         public void Window_Loaded(object sender, RoutedEventArgs e)
         {
